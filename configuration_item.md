@@ -24,7 +24,7 @@ myChart.setOption (option)
 
 ## title
 
-    标题组件，包含主标题和副标题。
+   标题组件，包含主标题和副标题。
 
 在ECharts3中可以存在任意多个标题组件
 
