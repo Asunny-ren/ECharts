@@ -46,7 +46,9 @@ ECharts 3 ¿ªÊ¼¶ÀÁ¢³öÁË¡°×ø±êÏµ¡±µÄ¸ÅÄî£¬Ö§³ÖÁËÖ±½Ç×ø±êÏµ£¨catesian£¬Í¬ grid£©¡¢¼
 
 ## »æÖÆÒ»¸ö¼òµ¥µÄÍ¼±í
 
-ÔÚ»æÍ¼Ç°ÎÒÃÇÐèÒªÎª ECharts ×¼±¸Ò»¸ö¾ß±¸¸ß¿íµÄ DOM ÈÝÆ÷¡£
+ÔÚ»æÍ¼Ç°ÎÒÃÇÐèÒªÎª ECharts ×¼±¸Ò»¸ö¾ß±¸¸ß¿íµÄ DOM ÈÝÆ÷(»ñÈ¡Õâ¸ödomÈÝÆ÷µÄÊ±ºò±ØÐëÎªdom¶ÔÏó£¬²»¿ÉÒÔÊÇjquery»òÕßÆäËû¶ÔÏó)¡£
+
+²¢ÇÒÕâ¸öDOMÈÝÆ÷ÔÚ¸Õ¿ªÊ¼±ØÐë¶¨ÒåÊµ¼ÊµÄ¸ß¿í£¬²»¿ÉÒÔÓÃ°Ù·Ö±È
 
 ``` html
 <body>
