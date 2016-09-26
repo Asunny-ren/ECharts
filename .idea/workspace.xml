@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e585a21b-7414-4684-8521-e20354cf42de" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/configuration_item.md" afterPath="$PROJECT_DIR$/configuration_item.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ECharts.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,8 +40,8 @@
         <entry file="file://$PROJECT_DIR$/configuration_item.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state>
-              <first_editor vertical-scroll-proportion="0.37623763">
-                <caret line="115" column="0" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+              <first_editor vertical-scroll-proportion="0.44554454">
+                <caret line="20" column="81" selection-start-line="20" selection-start-column="81" selection-end-line="20" selection-end-column="81" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -309,8 +308,8 @@
     <entry file="file://$PROJECT_DIR$/configuration_item.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state>
-          <first_editor vertical-scroll-proportion="0.37623763">
-            <caret line="115" column="0" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+          <first_editor vertical-scroll-proportion="0.44554454">
+            <caret line="20" column="81" selection-start-line="20" selection-start-column="81" selection-end-line="20" selection-end-column="81" />
             <folding />
           </first_editor>
           <second_editor />
